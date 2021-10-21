@@ -121,3 +121,4 @@ let g:clipboard = {
           \   },
           \   'cache_enabled': 0,
           \ }
+"hola
